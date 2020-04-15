@@ -14,7 +14,7 @@ const Intro = props => {
           <a href="https://github.com/amazingshellyyy"><IoLogoGithub/></a>
           <a href="https://www.linkedin.com/in/amazingshellyyy/"><IoLogoLinkedin/></a>
           <a href="https://calendly.com/amazingshellyyy/30min"><IoMdCalendar/></a>
-          <a href="https://amazingshellyyy.com/resume/Shelly_Cheng_Resume2020FD.pdf"><IoIosDocument/></a>
+          <a href="https://amazingshellyyy.com/resume/Shelly_Cheng_FE.pdf"><IoIosDocument/></a>
         </IconContext.Provider>
       </Col>
       <Col xs={1}></Col>

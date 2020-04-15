@@ -19,9 +19,7 @@ function App() {
           <Intro />
         </Container>
       </div>
-      <Container className="mt-5 mb-5">
         <Projects />
-      </Container>
     </>
   );
 }

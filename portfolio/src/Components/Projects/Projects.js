@@ -2,6 +2,8 @@ import React from 'react';
 import projects from '../../projects.json';
 import {Row} from 'react-bootstrap';
 import ProjectCard from './ProjectCard'
+import './project.scss';
+
 
 class Projects extends React.Component{
 
@@ -12,12 +14,9 @@ class Projects extends React.Component{
   }
   render(){
     return(
-      <>
-      <Row>
+      <div className="project-component">
         {this.displayProjects(projects)}
-      </Row>
-     
-      </>
+      </div>
     )
   }
  

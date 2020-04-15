@@ -1,68 +1,84 @@
 [
-  {
-    "title": "Startkicker",
-    "subtitle": " A platform where user can browse different projects that others build and back the project. Users can also start a project and seek supports.",
-    "link": "https://amazingshellyyy.com/startkicker/#/",
-    "image": "https://i.imgur.com/4JYeNlj.png",
-    "tech": "MERN - MongoDB, Express, React, NodeJS",
-    "gitHub": "https://github.com/amazingshellyyy/startkicker",
-    "note": "Personal",
-    "time": "4 Days",
-    "date": "Mar 2020"
-  },
-  {
-    "title": "GeoTask",
-    "subtitle": "A todo app with geolocation for assigning locations to todo lists.",
-    "link": "https://geotask.herokuapp.com/",
-    "image": "https://i.imgur.com/0xuSXe5.png",
-    "tech": "HTML, CSS, JS, NodeJS, Express, MongoDB, Ajax, JQuery",
-    "gitHub": "https://github.com/amazingshellyyy/GeoTask",
-    "note": "Team of 2",
-    "time": "5 Days",
-    "date": "Feb 2020"
-  },
-  {
-    "title": "CatBook",
-    "subtitle": "An internet community where you can share your love of cats through your daily thoughts, read about other cats and follow other cat lovers.",
-    "link": "",
-    "image": "https://i.imgur.com/4F0F8uf.png",
-    "tech": "HTML, CSS, Django, PostgresSQL",
-    "gitHub": "https://github.com/amazingshellyyy/CatBook",
-    "note": "Team of 3",
-    "time": "5 Days",
-    "date": "Feb 2020"
-  },
-  {
-    "title": "American Idol",
-    "subtitle": "A collabathon project with UI/UX designer",
-    "link": "",
-    "image": "https://i.imgur.com/nhs3kRD.png",
-    "tech": "HTML, CSS, NodeJS, Express, MongoDB",
-    "gitHub": "https://github.com/amazingshellyyy/Collabathon",
-    "note": "Team of 2",
-    "time": "1 Day",
-    "date": "Jan 2020"
-  },
-  {
-    "title": "Wayfarer",
-    "subtitle": "A travel community where users can share tips about their favorite locations around the world",
-    "link": "",
-    "image": "https://i.imgur.com/7mBkliW.png",
-    "tech": "MERN - MongoDB, Express, React, NodeJS",
-    "gitHub": "https://github.com/amazingshellyyy/Wayfarer-FrontEnd",
-    "note": "Team of 4",
-    "time": "4 Days",
-    "date": "Feb 2020"
-  },
-  {
-    "title": "Rummikub",
-    "subtitle": "Online German Poker Game",
-    "link": "https://amazingshellyyy.com/Rummikub/",
-    "image": "https://i.imgur.com/Y1JrHCr.png",
-    "tech": "HTML, CSS, JS, JQuery, Jquery UI",
-    "gitHub": "https://github.com/amazingshellyyy/Rummikub",
-    "note": "Personal",
-    "time": "5 Days",
-    "date": "Jan 2020"
-  }
+    {
+        "title": "Covid19 Open API",
+        "subtitle": "An open source API for Covid19 county case data.",
+        "image": "https://i.imgur.com/aPGKcwl.png",
+        "tech": "GitHub Action, Cheerio, Web Scrapper",
+        "gitHub": "https://github.com/amazingshellyyy/covid19-api",
+        "note": "Personal",
+        "date": "Mar 2020 - Current"
+    },
+    {
+        "title": "Mapitout",
+        "subtitle": "A platform aim to help local restaurants on their revenue lost during the shelter in place time as well as provide virus-related information.",
+        "link": "https://mapitout.github.io/",
+        "image": "https://i.imgur.com/9MXrBoR.png",
+        "tech": "MERN - MongoDB, Express, React, NodeJS",
+        "gitHub": "https://github.com/mapitout/mapitout",
+        "note": "Team of 2",
+        "date": "Mar 2020 - Current"
+    },
+    {
+        "title": "Startkicker",
+        "subtitle": "A platform where user can browse different projects that others build and back the project. Users can also start a project and seek supports.",
+        "link": "https://amazingshellyyy.com/startkicker/#/",
+        "image": "https://i.imgur.com/4JYeNlj.png",
+        "tech": "MERN - MongoDB, Express, React, NodeJS",
+        "gitHub": "https://github.com/amazingshellyyy/startkicker",
+        "note": "Personal",
+        "time": "4 Days",
+        "date": "Mar 2020"
+    },
+    {
+        "title": "GeoTask",
+        "subtitle": "A todo app with geolocation for assigning locations to todo lists.",
+        "link": "https://geotask.herokuapp.com/",
+        "image": "https://i.imgur.com/0xuSXe5.png",
+        "tech": "HTML, CSS, JS, NodeJS, Express, MongoDB, Ajax, JQuery",
+        "gitHub": "https://github.com/amazingshellyyy/GeoTask",
+        "note": "Team of 2",
+        "time": "5 Days",
+        "date": "Feb 2020"
+    },
+    {
+        "title": "CatBook",
+        "subtitle": "An internet community where you can share your love of cats through your daily thoughts, read about other cats and follow other cat lovers.",
+        "image": "https://i.imgur.com/4F0F8uf.png",
+        "tech": "HTML, CSS, Django, PostgresSQL",
+        "gitHub": "https://github.com/amazingshellyyy/CatBook",
+        "note": "Team of 3",
+        "time": "5 Days",
+        "date": "Feb 2020"
+    },
+    {
+        "title": "American Idol",
+        "subtitle": "A collabathon project with UI/UX designer",
+        "image": "https://i.imgur.com/nhs3kRD.png",
+        "tech": "HTML, CSS, NodeJS, Express, MongoDB",
+        "gitHub": "https://github.com/amazingshellyyy/Collabathon",
+        "note": "Team of 2",
+        "time": "1 Day",
+        "date": "Jan 2020"
+    },
+    {
+        "title": "Wayfarer",
+        "subtitle": "A travel community where users can share tips about their favorite locations around the world",
+        "image": "https://i.imgur.com/7mBkliW.png",
+        "tech": "MERN - MongoDB, Express, React, NodeJS",
+        "gitHub": "https://github.com/amazingshellyyy/Wayfarer-FrontEnd",
+        "note": "Team of 4",
+        "time": "4 Days",
+        "date": "Feb 2020"
+    },
+    {
+        "title": "Rummikub",
+        "subtitle": "Online German Poker Game",
+        "link": "https://amazingshellyyy.com/Rummikub/",
+        "image": "https://i.imgur.com/Y1JrHCr.png",
+        "tech": "HTML, CSS, JS, JQuery, Jquery UI",
+        "gitHub": "https://github.com/amazingshellyyy/Rummikub",
+        "note": "Personal",
+        "time": "5 Days",
+        "date": "Jan 2020"
+    }
 ]
