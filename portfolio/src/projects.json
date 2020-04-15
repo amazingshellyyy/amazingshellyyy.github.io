@@ -33,7 +33,7 @@
         "title": "GeoTask",
         "subtitle": "A todo app with geolocation for assigning locations to todo lists.",
         "link": "https://geotask.herokuapp.com/",
-        "image": "https://i.imgur.com/0xuSXe5.png",
+        "image": "https://i.imgur.com/jNx674D.png",
         "tech": "HTML, CSS, JS, NodeJS, Express, MongoDB, Ajax, JQuery",
         "gitHub": "https://github.com/amazingshellyyy/GeoTask",
         "note": "Team of 2",
