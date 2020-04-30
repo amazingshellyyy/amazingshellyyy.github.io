@@ -1,1 +1,0 @@
-# amazingshellyyy.github.io
