@@ -20,7 +20,7 @@ class Home extends React.Component {
 					<div className="container-sm">
 						<h2 className="mt-0 mb-0">{"Hi, I'm Shelly. I'm a Software Engineer."}</h2>
 						<ButtonGroup className="mt-0 mb-1">
-						<Link to='/secondary' style={{textDecoration: 'none'}}><Button color="primary" size='sm'>See my Projects</Button></Link>
+						<Link to='/projects' style={{textDecoration: 'none'}}><Button color="primary" size='sm'>See my Projects</Button></Link>
 							<Button size='sm' onClick={()=> window.open('https://github.com/amazingshellyyy')}><i className="fab fa-github" style={{lineHeight:'21px',paddingRight:'2px'}}></i>Github</Button>
 						</ButtonGroup>
 						<p style={{paddingTop:"20px"}}>
