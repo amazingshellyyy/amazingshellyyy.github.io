@@ -50,7 +50,7 @@ class Home extends React.Component {
 						<p>
 							Just to name a little about me. I know we will have more time to chat soon in the future! You can actually schedule <a href="https://calendly.com/amazingshellyyy/30min">Here</a>!
 						</p>
-						<Link to='/secondary' style={{textDecoration: 'none'}}><Button color="primary" size='sm'>Learn more</Button></Link>
+						<Link to='/about' style={{textDecoration: 'none'}}><Button color="primary" size='sm'>Learn more</Button></Link>
 					</div>
 				</GenericSection>
 				<Roadmap topDivider />
