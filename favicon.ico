@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="440px" height="440px" viewBox="0 0 440 440" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="98.8122889%" id="linearGradient-1">
+            <stop stop-color="#8F7AF8" offset="0%"></stop>
+            <stop stop-color="#5CEEEC" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-2" cx="220" cy="220" r="220"></circle>
+    </defs>
+    <g id="logo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Oval">
+            <use fill="#D8D8D8" xlink:href="#path-2"></use>
+            <use fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+        </g>
+        <text id="S" font-family="OpenSans-Bold, Open Sans" font-size="350" font-weight="bold" fill="#FFFFFF">
+            <tspan x="124" y="355">S</tspan>
+        </text>
+    </g>
+</svg>
