@@ -66,7 +66,7 @@ class FeaturesSplit extends React.Component {
 			>
 				<div className="container">
 					<div className={innerClasses}>
-						<SectionHeader data={sectionHeader} className="center-content" />
+						<SectionHeader data={sectionHeader} className="center-content reveal-from-bottom" />
 						<div className={splitClasses}>
 
 							<div className="split-item">
@@ -78,9 +78,9 @@ class FeaturesSplit extends React.Component {
 									<p className="m-1 reveal-from-bottom" data-reveal-delay="100" data-reveal-container=".split-item">
 									An open source API for Covid19 county case data. Currently has more than <b>1000 clones</b> on GitHub. I built it from crawling website data with <b>cheerio</b> and maintain the cron job by using <b>GitHub action</b>. 
 									</p>
-									<ButtonGroup>
-										<Button color="secondary" wideMobile onClick={()=> window.open('https://github.com/amazingshellyyy/covid19-api')}>Check it out</Button>
-										<Button onClick={()=> window.open('https://github.com/amazingshellyyy/covid19-api')} wideMobile><i className="fab fa-github" style={{lineHeight:'21px',paddingRight:'2px'}}></i>Github</Button>
+									<ButtonGroup className="reveal-from-bottom">
+										<Button  color="secondary" wideMobile onClick={()=> window.open('https://github.com/amazingshellyyy/covid19-api')}>Check it out</Button>
+										<Button  onClick={()=> window.open('https://github.com/amazingshellyyy/covid19-api')} wideMobile><i className="fab fa-github" style={{lineHeight:'21px',paddingRight:'2px'}}></i>Github</Button>
 									</ButtonGroup>
 								</div>
 								<div className={
@@ -108,7 +108,7 @@ class FeaturesSplit extends React.Component {
 									<p className="m-1 reveal-from-bottom" data-reveal-delay="100" data-reveal-container=".split-item">
 									A platform aim to <b>help local businesses</b> as well as provide virus-related information. Project is launched on April 12th and reached <b>1000 visitors</b> in 2 days. 
 									</p>
-									<ButtonGroup>
+									<ButtonGroup className="reveal-from-bottom">
 										<Button color="secondary" wideMobile onClick={()=> window.open('https://mapitout.github.io/')}>Check it out</Button>
 										<Button onClick={()=> window.open('https://github.com/mapitout/mapitout')} wideMobile><i className="fab fa-github" style={{lineHeight:'21px',paddingRight:'2px'}}></i>Github</Button>
 									</ButtonGroup>
@@ -138,7 +138,7 @@ class FeaturesSplit extends React.Component {
 									<p className="m-1 reveal-from-bottom" data-reveal-delay="100" data-reveal-container=".split-item">
 									A platform where user can browse different projects that others build and back the project. Users can also start a project and seek supports.
 									</p>
-									<ButtonGroup>
+									<ButtonGroup className="reveal-from-bottom">
 										<Button color="secondary" wideMobile onClick={()=> window.open('https://amazingshellyyy.com/startkicker/#/')}>Check it out</Button>
 										<Button onClick={()=> window.open('https://github.com/amazingshellyyy/startkicker')} wideMobile><i className="fab fa-github" style={{lineHeight:'21px',paddingRight:'2px'}}></i>Github</Button>
 									</ButtonGroup>
@@ -167,7 +167,7 @@ class FeaturesSplit extends React.Component {
 									<p className="m-1 reveal-from-bottom" data-reveal-delay="100" data-reveal-container=".split-item">
 									A todo app with geolocation for assigning locations to todo lists.
 									</p>
-									<ButtonGroup>
+									<ButtonGroup className="reveal-from-bottom">
 										<Button color="secondary" wideMobile onClick={()=> window.open('https://geotask.herokuapp.com/')}>Check it out</Button>
 										<Button onClick={()=> window.open('https://github.com/amazingshellyyy/GeoTask')} wideMobile><i className="fab fa-github" style={{lineHeight:'21px',paddingRight:'2px'}}></i>Github</Button>
 									</ButtonGroup>
@@ -196,7 +196,7 @@ class FeaturesSplit extends React.Component {
 									<p className="m-1 reveal-from-bottom" data-reveal-delay="100" data-reveal-container=".split-item">
 										My favorite board game built with vanilla javascript and jquery drag and drop UI.
 									</p>
-									<ButtonGroup>
+									<ButtonGroup className="reveal-from-bottom">
 										<Button color="secondary" wideMobile onClick={()=> window.open('https://amazingshellyyy.com/Rummikub/')}>Check it out</Button>
 										<Button onClick={()=> window.open('https://github.com/amazingshellyyy/Rummikub')} wideMobile><i className="fab fa-github" style={{lineHeight:'21px',paddingRight:'2px'}}></i>Github</Button>
 									</ButtonGroup>
