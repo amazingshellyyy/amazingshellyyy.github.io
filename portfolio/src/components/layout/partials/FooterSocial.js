@@ -67,7 +67,7 @@ const FooterSocial = ({
                     </a>
                 </li>
                 <li>
-                    <a href="https://amazingshellyyy.com/resume/Shelly_Cheng_FE.pdf">
+                    <a href="https://amazingshellyyy.com/resume/Shelly_Cheng_resume_FS.pdf">
                         <svg width="15px" height="17px" viewBox="0 0 15 17" version="1.1" xmlns="http://www.w3.org/2000/svg" >
 
                             <title>Resume</title>
