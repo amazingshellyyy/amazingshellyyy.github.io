@@ -182,8 +182,8 @@ class Team extends React.Component {
         );
 
         const sectionHeader = {
-            title: 'Get to know me',
-            paragraph: 'I am an adventurer, a fast-learning, an explorer, a designer, and also a programmer! '
+            title: 'Besides Engineering..',
+            paragraph: 'I am an adventurer, a cook, a dancer,and a girl who loves to travel a lot! '
         };
 
         return (
@@ -198,7 +198,7 @@ class Team extends React.Component {
                         <div className="container-sm">
                             <h3 className="reveal-from-bottom">From Kitchen to Table</h3>
                             <p className="reveal-from-bottom">
-                                I enjoy cooking and baking a lot. I believea good meal can change our day.I also enjoy working through recipes and optimize it to a better one and share with my friends and family.
+                                I enjoy cooking and baking a lot. I believea good meal can change our day. I also enjoy working through recipes and optimize it to a better one and share with my friends and family.
                             </p>
                         </div>
                         <div className={tilesClasses}>
