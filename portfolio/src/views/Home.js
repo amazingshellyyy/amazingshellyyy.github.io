@@ -5,7 +5,7 @@ import Roadmap from '../components/sections/Roadmap';
 import GenericSection from '../components/sections/GenericSection';
 import FeaturesSplit from '../components/sections/FeaturesSplit-part';
 
-import Image from '../components/elements/Image';
+
 import Button from '../components/elements/Button';
 import ButtonGroup from '../components/elements/ButtonGroup';
 
