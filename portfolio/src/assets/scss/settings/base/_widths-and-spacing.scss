@@ -7,13 +7,20 @@ $breakpoints: (
 	large: 	820px
 );
 
-// Containers widths
+// // Containers widths
 $container--width-boxed: 		1440px;		// boxed container width
 $container--width: 				1080px;		// container width
 $container--width-sm:			896px;		// container sm width
 $container--width-xs: 			620px;		// container xs width
+// $container--padding__mobile:	16px;		// container, left and right padding (mobile)
+// $container--padding__desktop:	24px;		// container, left and right padding (desktop)
+// Containers widths
+// $container--width-boxed: 		1080px;		// boxed container width
+// $container--width: 				896px;		// container width
+// $container--width-sm:			620px;		// container sm width
+// $container--width-xs: 			480px;		// container xs width
 $container--padding__mobile:	16px;		// container, left and right padding (mobile)
-$container--padding__desktop:	24px;		// container, left and right padding (desktop)
+$container--padding__desktop:	100px;		// container, left and right padding (desktop)
 
 // Global spacing
 $spacing--shared-v: 	24px;				// used on many different elements (e.g. hr, ul, ol and more)

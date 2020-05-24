@@ -71,10 +71,12 @@ class FeaturesSplit extends React.Component {
 						<div className={splitClasses}>
 
 							<div className="split-item">
-								<div className="split-item-content center-content-mobile">
-									<h3 className="mt-0 mb-16 reveal-from-bottom" data-reveal-container=".split-item">
+                <div className="split-item-content center-content-mobile">
+                <a style={{textDecoration:'none'}} href="https://github.com/amazingshellyyy/covid19-api">
+									<h3 className="mt-0 mb-16 reveal-from-bottom link" data-reveal-container=".split-item">
 										Covid19 Open API
-									</h3>
+                  </h3>
+                  </a>
 									<div className="text-color-low reveal-from-bottom"> - Javascript, Github Action, cheerio</div>
 									<p className="m-1 reveal-from-bottom" data-reveal-delay="100" data-reveal-container=".split-item">
 									An open source API for Covid19 county case data. Currently has more than <b>1000 clones</b> on GitHub. I built it from crawling website data with <b>cheerio</b> and maintain the cron job by using <b>GitHub action</b>. 
@@ -83,7 +85,8 @@ class FeaturesSplit extends React.Component {
 										<Button  color="primary" wideMobile onClick={()=> window.open('https://github.com/amazingshellyyy/covid19-api')}>Check it out</Button>
 										<Button  onClick={()=> window.open('https://github.com/amazingshellyyy/covid19-api')} wideMobile><i className="fab fa-github" style={{lineHeight:'21px',paddingRight:'2px'}}></i>Github</Button>
 									</ButtonGroup>
-								</div>
+                </div>
+                <a href="https://github.com/amazingshellyyy/covid19-api">
 								<div className={
 									classNames(
 										'split-item-image center-content-mobile reveal-scale-up',
@@ -97,14 +100,17 @@ class FeaturesSplit extends React.Component {
 										alt="Features split 01"
 										width={528}
 										height={396} />
-								</div>
+                </div>
+                </a>
 							</div>
 
 							<div className="split-item">
-								<div className="split-item-content center-content-mobile">
-									<h3 className="mt-0 mb-16 reveal-from-bottom" data-reveal-container=".split-item">
+                <div className="split-item-content center-content-mobile">
+                <a style={{textDecoration:'none'}} href="https://mapitout.github.io/'">
+									<h3 className="mt-0 mb-16 reveal-from-bottom link" data-reveal-container=".split-item">
 										Mapitout | MERN stack
-									</h3>
+                  </h3>
+                  </a>
 									<div className="text-color-low reveal-from-bottom"> - React/Redux, SCSS, Nodejs, MongoDB, Expressjs</div>
 									<p className="m-1 reveal-from-bottom" data-reveal-delay="100" data-reveal-container=".split-item">
 									A platform aim to <b>help local businesses</b> as well as provide virus-related information. Project is launched on April 12th and reached <b>1000 visitors</b> in 2 days. 
@@ -113,7 +119,8 @@ class FeaturesSplit extends React.Component {
 										<Button color="primary" wideMobile onClick={()=> window.open('https://mapitout.github.io/')}>Check it out</Button>
 										<Button onClick={()=> window.open('https://github.com/mapitout/mapitout')} wideMobile><i className="fab fa-github" style={{lineHeight:'21px',paddingRight:'2px'}}></i>Github</Button>
 									</ButtonGroup>
-								</div>
+                </div>
+                <a href="https://mapitout.github.io/">
 								<div className={
 									classNames(
 										'split-item-image center-content-mobile reveal-scale-up',
@@ -127,7 +134,8 @@ class FeaturesSplit extends React.Component {
 										alt="Features split 02"
 										width={528}
 										height={396} />
-								</div>
+                </div>
+                </a>
 							</div>
 
 							

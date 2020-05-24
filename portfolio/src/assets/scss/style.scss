@@ -214,6 +214,13 @@
   
 
   .button-group{
-      margin-top: 10vh;
+      margin-top: 5vh;
       
+  }
+
+  .link {
+    text-decoration: none !important;
+    &:hover{
+      color: #7085FE;
+    }
   }

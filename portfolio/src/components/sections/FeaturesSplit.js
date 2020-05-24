@@ -70,10 +70,12 @@ class FeaturesSplit extends React.Component {
 						<div className={splitClasses}>
 
 							<div className="split-item">
-								<div className="split-item-content center-content-mobile">
-									<h3 className="mt-0 mb-16 reveal-from-bottom" data-reveal-container=".split-item">
+                <div className="split-item-content center-content-mobile">
+                <a style={{textDecoration:'none'}} href="https://github.com/amazingshellyyy/covid19-api">
+									<h3 className="mt-0 mb-16 reveal-from-bottom link" data-reveal-container=".split-item">
 										Covid19 Open API
-									</h3>
+                  </h3>
+                  </a>
 									<div className="text-color-low reveal-from-bottom"> - Javascript, Github Action, cheerio</div>
 									<p className="m-1 reveal-from-bottom" data-reveal-delay="100" data-reveal-container=".split-item">
 									An open source API for Covid19 county case data. Currently has more than <b>1000 clones</b> on GitHub. I built it from crawling website data with <b>cheerio</b> and maintain the cron job by using <b>GitHub action</b>. 
@@ -82,7 +84,8 @@ class FeaturesSplit extends React.Component {
 										<Button  color="secondary" wideMobile onClick={()=> window.open('https://github.com/amazingshellyyy/covid19-api')}>Check it out</Button>
 										<Button  onClick={()=> window.open('https://github.com/amazingshellyyy/covid19-api')} wideMobile><i className="fab fa-github" style={{lineHeight:'21px',paddingRight:'2px'}}></i>Github</Button>
 									</ButtonGroup>
-								</div>
+                </div>
+                <a href="https://github.com/amazingshellyyy/covid19-api">
 								<div className={
 									classNames(
 										'split-item-image center-content-mobile reveal-scale-up',
@@ -96,14 +99,17 @@ class FeaturesSplit extends React.Component {
 										alt="Features split 01"
 										width={528}
 										height={396} />
-								</div>
+                </div>
+                </a>
 							</div>
 
 							<div className="split-item">
-								<div className="split-item-content center-content-mobile">
-									<h3 className="mt-0 mb-16 reveal-from-bottom" data-reveal-container=".split-item">
+                <div className="split-item-content center-content-mobile">
+                <a style={{textDecoration:'none'}}>
+									<h3 className="mt-0 mb-16 reveal-from-bottom link" data-reveal-container=".split-item">
 										Mapitout | MERN stack
-									</h3>
+                  </h3>
+                  </a>
 									<div className="text-color-low reveal-from-bottom"> - React/Redux, SCSS, Nodejs, MongoDB, Expressjs</div>
 									<p className="m-1 reveal-from-bottom" data-reveal-delay="100" data-reveal-container=".split-item">
 									A platform aim to <b>help local businesses</b> as well as provide virus-related information. Project is launched on April 12th and reached <b>1000 visitors</b> in 2 days. 
@@ -112,7 +118,8 @@ class FeaturesSplit extends React.Component {
 										<Button color="secondary" wideMobile onClick={()=> window.open('https://mapitout.github.io/')}>Check it out</Button>
 										<Button onClick={()=> window.open('https://github.com/mapitout/mapitout')} wideMobile><i className="fab fa-github" style={{lineHeight:'21px',paddingRight:'2px'}}></i>Github</Button>
 									</ButtonGroup>
-								</div>
+                </div>
+                <a href="https://mapitout.github.io/">
 								<div className={
 									classNames(
 										'split-item-image center-content-mobile reveal-scale-up',
@@ -126,14 +133,17 @@ class FeaturesSplit extends React.Component {
 										alt="Features split 02"
 										width={528}
 										height={396} />
-								</div>
+                </div>
+                </a>
 							</div>
 
 							<div className="split-item">
-								<div className="split-item-content center-content-mobile">
-									<h3 className="mt-0 mb-16 reveal-from-bottom" data-reveal-container=".split-item">
+                <div className="split-item-content center-content-mobile">
+                <a  style={{textDecoration:'none'}} href="https://amazingshellyyy.com/startkicker/#/">
+									<h3  className="mt-0 mb-16 reveal-from-bottom link" data-reveal-container=".split-item">
 										Startkicker | MERN stack
-									</h3>
+                  </h3>
+                  </a>
 									<div className="text-color-low reveal-from-bottom"> - React, MongoDB, Nodejs, Expressjs</div>
 									<p className="m-1 reveal-from-bottom" data-reveal-delay="100" data-reveal-container=".split-item">
 									A platform where user can browse different projects that others build and back the project. Users can also start a project and seek supports.
@@ -142,7 +152,8 @@ class FeaturesSplit extends React.Component {
 										<Button color="secondary" wideMobile onClick={()=> window.open('https://amazingshellyyy.com/startkicker/#/')}>Check it out</Button>
 										<Button onClick={()=> window.open('https://github.com/amazingshellyyy/startkicker')} wideMobile><i className="fab fa-github" style={{lineHeight:'21px',paddingRight:'2px'}}></i>Github</Button>
 									</ButtonGroup>
-								</div>
+                </div>
+                <a href="https://amazingshellyyy.com/startkicker/#/">
 								<div className={
 									classNames(
 										'split-item-image center-content-mobile reveal-scale-up',
@@ -156,13 +167,16 @@ class FeaturesSplit extends React.Component {
 										alt="Features split 03"
 										width={528}
 										height={396} />
-								</div>
+                </div>
+                </a>
 							</div>
 							<div className="split-item">
-								<div className="split-item-content center-content-mobile">
-									<h3 className="mt-0 mb-16 reveal-from-bottom" data-reveal-container=".split-item">
+                <div className="split-item-content center-content-mobile">
+                <a style={{textDecoration:'none'}} href="https://geotask.herokuapp.com/">
+									<h3 className="mt-0 mb-16 reveal-from-bottom link" data-reveal-container=".split-item">
 										GeoTask 
-									</h3>
+                  </h3>
+                  </a>
 									<div className="text-color-low reveal-from-bottom"> - HTML/CSS,  Ajax, JQuery, MongoDB, Nodejs, Expressjs, Google places API, Google OAuth</div>
 									<p className="m-1 reveal-from-bottom" data-reveal-delay="100" data-reveal-container=".split-item">
 									A todo app with geolocation for assigning locations to todo lists.
@@ -171,7 +185,8 @@ class FeaturesSplit extends React.Component {
 										<Button color="secondary" wideMobile onClick={()=> window.open('https://geotask.herokuapp.com/')}>Check it out</Button>
 										<Button onClick={()=> window.open('https://github.com/amazingshellyyy/GeoTask')} wideMobile><i className="fab fa-github" style={{lineHeight:'21px',paddingRight:'2px'}}></i>Github</Button>
 									</ButtonGroup>
-								</div>
+                </div>
+                <a href="https://geotask.herokuapp.com/">
 								<div className={
 									classNames(
 										'split-item-image center-content-mobile reveal-scale-up',
@@ -185,13 +200,16 @@ class FeaturesSplit extends React.Component {
 										alt="Features split 03"
 										width={528}
 										height={396} />
-								</div>
+                </div>
+                </a>
 							</div>
 							<div className="split-item">
-								<div className="split-item-content center-content-mobile">
-									<h3 className="mt-0 mb-16 reveal-from-bottom" data-reveal-container=".split-item">
-										Rummikub
-									</h3>
+                <div className="split-item-content center-content-mobile">
+                <a style={{textDecoration:'none'}}>
+                <h3 className="mt-0 mb-16 reveal-from-bottom link" data-reveal-container=".split-item">
+                  Rummikub
+                </h3>
+                </a>
 									<div className="text-color-low reveal-from-bottom"> - HTML, CSS, JS, JQuery, Jquery UI</div>
 									<p className="m-1 reveal-from-bottom" data-reveal-delay="100" data-reveal-container=".split-item">
 										My favorite board game built with vanilla javascript and jquery drag and drop UI.
@@ -200,7 +218,8 @@ class FeaturesSplit extends React.Component {
 										<Button color="secondary" wideMobile onClick={()=> window.open('https://amazingshellyyy.com/Rummikub/')}>Check it out</Button>
 										<Button onClick={()=> window.open('https://github.com/amazingshellyyy/Rummikub')} wideMobile><i className="fab fa-github" style={{lineHeight:'21px',paddingRight:'2px'}}></i>Github</Button>
 									</ButtonGroup>
-								</div>
+                </div>
+                <a href="https://amazingshellyyy.com/Rummikub/">
 								<div className={
 									classNames(
 										'split-item-image center-content-mobile reveal-scale-up',
@@ -214,7 +233,8 @@ class FeaturesSplit extends React.Component {
 										alt="Features split 03"
 										width={528}
 										height={396} />
-								</div>
+                </div>
+                </a>
 							</div>
 							
 
