@@ -34,7 +34,7 @@ const FooterSocial = ({
                     </a>
                 </li>
                 <li>
-                    <a href="https://www.linkedin.com/in/amazingshellyyy/">
+                    <a href="https://www.linkedin.com/in/amazingshellyyyy/">
                         <svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg">
                             <title>LinkedIn</title>
                             <g>
@@ -67,7 +67,7 @@ const FooterSocial = ({
                     </a>
                 </li>
                 <li>
-                    <a href="https://amazingshellyyy.com/resume/Shelly_Cheng_resume_FS.pdf">
+                    <a href="https://amazingshellyyy.com/resume/Resume_Shelly_Cheng_2020.pdf">
                         <svg width="15px" height="17px" viewBox="0 0 15 17" version="1.1" xmlns="http://www.w3.org/2000/svg" >
 
                             <title>Resume</title>

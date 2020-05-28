@@ -69,7 +69,7 @@ class Home extends React.Component {
             <Button
               onClick={() =>
                 window.open(
-                  "https://amazingshellyyy.com/resume/Shelly_Cheng_resume_FS.pdf"
+                  "https://amazingshellyyy.com/resume/Resume_Shelly_Cheng_2020.pdf"
                 )
               }
               color="light"
