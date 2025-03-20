@@ -14,6 +14,8 @@ const defaultProps = {
   title: ''
 }
 
+console.log("AccordionItem");
+
 class AccordionItem extends React.Component {
 
   state = {
